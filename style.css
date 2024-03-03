@@ -84,7 +84,10 @@ header img {
   padding: 3.5rem;
 }
 
-/* .img-card {
-   width: 200px;
-   height: 120px;
-} */
+.img-card {
+   width: 100px;
+}
+
+.row1{
+  display: flex;
+}
